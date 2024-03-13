@@ -33,3 +33,9 @@ Adept at working effectively in fast-paced, deadline-driven settings that demand
 and analytical skills.
 
 
+<style>
+  body{
+    background-color: gray; 
+    color: white;
+  }
+</style>
