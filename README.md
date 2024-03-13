@@ -3,12 +3,6 @@
 ## Bio
 Hello, my name is Landon Vong. I am majoring in Software Development at the University of Utah. My hobbies include golfing and being with my dogs.
 
-## 
-I am a current software development student with experience writing code and designing solutions.
-Adept at working effectively in fast-paced, deadline-driven settings that demand strong organizational
-and analytical skills.
-
-
 ## Education
 ### University of Utah Salt Lake City, UT <br>
 Software Developer - Junior year
