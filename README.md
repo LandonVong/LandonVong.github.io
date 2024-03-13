@@ -35,6 +35,6 @@ and analytical skills.
 
 <style>
   body{
-    background-color: #d2d5d9; 
+    background-color: #e8eaed; 
   }
 </style>
